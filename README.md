@@ -17,6 +17,7 @@
 * install composer
 * unlinked composer
 * create laravel project - composer create-project --prefer-dist laravel/laravel projectname
+* check local server - php artisan serve
 * update composer - composer require laravel/ui "^3.0" --dev
 * install default authentication - php artisan ui vue --auth
 * create Model - php artisan make:model model_name -m
