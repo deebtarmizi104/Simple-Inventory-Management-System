@@ -28,3 +28,6 @@
 * create middleware - php artisan make:middleware middleware_name
 * listing route - php artican r:l OR php artisan route:list
 * install laravel helpers - composer require laravel/helpers
+
+
+![image](https://user-images.githubusercontent.com/55779668/126507634-c1be7475-6450-4b23-9e19-25ff01f5ea71.png)
