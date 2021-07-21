@@ -1,5 +1,6 @@
 # Simple Inventory Web System
 
+## Covering:
 
 ## Make use of:
 - LARAVEL 8.x 
@@ -10,3 +11,5 @@
 - composer 2.1.3
 - Vuejs
 - RESTful API
+
+## Footnotes:
