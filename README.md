@@ -1,2 +1,2 @@
-# Simple-Inventory-Web-System
-With Laravel Framework
+# Simple Inventory Web System
+
