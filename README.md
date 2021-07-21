@@ -3,7 +3,7 @@
 ## Covering:
 
 ## Make use of:
-- LARAVEL 8.x 
+- LARAVEL 8.x
 - myphpadmin
 - xampp 8.0.8
 - php 8.0.8
@@ -19,6 +19,7 @@
 * create laravel project - composer create-project --prefer-dist laravel/laravel projectname
 * check local server - php artisan serve
 * update composer - composer require laravel/jetstream
+* install jetstream with livewire - php artisan jetstream:install livewire
 * install default authentication - php artisan ui vue --auth
 * create Model - php artisan make:model model_name -m
 * create seeder - php artisan make:seed seed_name
