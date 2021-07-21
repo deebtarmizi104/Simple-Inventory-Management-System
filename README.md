@@ -1,4 +1,4 @@
-# Simple Inventory Web System with Laravel, Vuejs and RESTful API
+# Simple Inventory Web Management System with Laravel, Vuejs and RESTful API
 
 ## Covering:
 
