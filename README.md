@@ -9,6 +9,7 @@
 - php 8.0.8
 - bootstrap 5
 - composer 2.1.3
+- Node js
 - Vuejs
 - RESTful API
 
