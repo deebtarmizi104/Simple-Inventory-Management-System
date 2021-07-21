@@ -20,7 +20,7 @@
 * check local server - php artisan serve
 * update composer - composer require laravel/jetstream
 * install jetstream with livewire - php artisan jetstream:install livewire
-* install default authentication - php artisan ui vue --auth
+* install nodejs - npm install && npm run dev
 * create Model - php artisan make:model model_name -m
 * create seeder - php artisan make:seed seed_name
 * migrate created table - php artisan migrate
